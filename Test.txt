@@ -1,3 +1,4 @@
 This file is test1.
 
 i made some conflicting changes
+made some changes from github (this is the correct way!)
